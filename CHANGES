@@ -1,7 +1,14 @@
-Arbor.js Changes
+Arbor-lighter.js Changes
 ----------------
 
-Version 0.92 | 19 jun 2011
+Version 1.00 | 21 jul 2015 | danielzxz
+--------------------------
+  * Support HD resolution
+  * Remove JQuery dependence
+  * Remove worker
+  * Remove tween
+
+Version 0.92 | 19 jun 2011 | samizdatco
 --------------------------
 
   * Creating nodes with an initial x/y or fixed position now works as advertised
@@ -14,7 +21,7 @@ Version 0.92 | 19 jun 2011
   * Added a shell script to run a local http server so the demos will work without
     needing to be hosted somewhere
 
-Version 0.91 | 17 jan 2011
+Version 0.91 | 17 jan 2011 | samizdatco
 --------------------------
 
   * Now supplementing brute-force repulsion calculations with the more-efficient
@@ -22,7 +29,7 @@ Version 0.91 | 17 jan 2011
     parameter to control the accuracy/speed trade-off.
 
 
-Version 0.9 | 12 jan 2011
+Version 0.9 | 12 jan 2011 | samizdatco
 -------------------------
 
   * Initial release
